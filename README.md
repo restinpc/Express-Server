@@ -16,4 +16,4 @@ Node.js Express static file server.
 
 CentOS 7.6.1810, 1x2.2Hz, 0.5gb RAM  
 
-![Load test](https://raw.githubusercontent.com/restinpc/Java-Server/master/loadest.png)
+![Load test](https://raw.githubusercontent.com/restinpc/Node-Express-Server/master/loadest.png)
