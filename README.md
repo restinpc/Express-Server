@@ -12,7 +12,8 @@ Node.js Express static file server.
 - Run `npm install` than `node app.js`
 
 
-## Stress testing
+## [Load Test](http://loadest.io)
 
-CentOS 7.6.1810, 1x2.2ГГц, 1Гб RAM 
-> `-` requests are processed on `-` transactions per second with `-` of errors and `-` average delay.
+CentOS 7.6.1810, 1x2.2Hz, 0.5gb RAM  
+
+![Load test](https://raw.githubusercontent.com/restinpc/Java-Server/master/loadest.png)
